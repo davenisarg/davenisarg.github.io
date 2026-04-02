@@ -1,6 +1,6 @@
 # davenisarg.github.io
 
-Personal website built with Hugo + Blowfish theme.
+Personal website built with Hugo + Blowfish theme
 
 ## How to publish to GitHub Pages
 
