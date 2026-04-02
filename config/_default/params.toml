@@ -1,0 +1,40 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "basic"
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+
+[homepage]
+  layout = "profile"
+  showRecent = false
+
+[article]
+  showDate = false
+  showReadingTime = false
+  showTableOfContents = true
+
+[list]
+  showCards = true
+  groupByYear = false
+
+[taxonomy]
+  showTermCount = false
+
+[author]
+  name = "Nisarg Dave"
+  headline = "Data Scientist | AI/ML | Photography"
+  bio = "Building production AI/ML systems. Photographer when the light is right."
+  image = "img/profile.jpg"
+  links = [
+    { email = "mailto:dnisarg13@icloud.com" },
+    { linkedin = "https://www.linkedin.com/in/davenisarg" },
+    { github = "https://github.com/davenisarg" },
+    { instagram = "https://www.instagram.com/thedavenisarg" },
+  ]

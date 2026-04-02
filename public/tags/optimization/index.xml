@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Optimization on Nisarg Dave</title><link>https://davenisarg.github.io/tags/optimization/</link><description>Recent content in Optimization on Nisarg Dave</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Nisarg Dave</copyright><atom:link href="https://davenisarg.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml"/><item><title>Geospatial Optimization and Smart Scheduling</title><link>https://davenisarg.github.io/projects/geo-optimization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://davenisarg.github.io/projects/geo-optimization/</guid><description>&lt;p&gt;Designed optimization models at Asurion for field technician routing and job scheduling.&lt;/p&gt;
+&lt;p&gt;The system uses geospatial data to minimize drive time between service appointments, clusters nearby jobs to create efficient daily routes, and dynamically adjusts schedules based on real-time demand. Also replaced manual Excel-based demand planning with automated time-series forecasting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drive time reduced by 30% (9 min/job)&lt;/li&gt;
+&lt;li&gt;1.1 additional jobs per technician per day&lt;/li&gt;
+&lt;li&gt;$1-1.5M in annual cost savings&lt;/li&gt;
+&lt;li&gt;Eliminated manual Excel-based planning workflows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tech:&lt;/strong&gt; Geospatial optimization, clustering algorithms, time-series forecasting, Python&lt;/p&gt;</description></item></channel></rss>

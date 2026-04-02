@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NER on Nisarg Dave</title><link>https://davenisarg.github.io/tags/ner/</link><description>Recent content in NER on Nisarg Dave</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Nisarg Dave</copyright><atom:link href="https://davenisarg.github.io/tags/ner/index.xml" rel="self" type="application/rss+xml"/><item><title>NER-Based Auto-Triage for Field Services</title><link>https://davenisarg.github.io/projects/ner-autotriage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://davenisarg.github.io/projects/ner-autotriage/</guid><description>&lt;p&gt;Built an NLP system at Asurion that automatically triages major appliance repair requests using Named Entity Recognition.&lt;/p&gt;
+&lt;p&gt;The model extracts product details, symptom descriptions, and fault indicators from customer intake data, then classifies the issue and recommends the right repair path. Before this system, every request required manual expert review.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10% of triage decisions fully automated&lt;/li&gt;
+&lt;li&gt;First-trip-fix rate improved by 10%&lt;/li&gt;
+&lt;li&gt;5,900+ expert-assist hours saved per year&lt;/li&gt;
+&lt;li&gt;$150K+ annual savings across 17 markets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tech:&lt;/strong&gt; NER, NLP pipelines, production deployment, multi-market rollout&lt;/p&gt;</description></item></channel></rss>
