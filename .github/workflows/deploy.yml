@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.159.1
-      HUGO_SHA256: 43f8e2b68a16e08d68afebdb41eadb278a79740e67e914be79055687c8f7e8a7
+      HUGO_SHA256: 55eacfba3a71c3e847850ce0be31a31130fa4ecd71f8136bffa7dc80cf9c5313
     steps:
       - name: Install Hugo
         run: |
