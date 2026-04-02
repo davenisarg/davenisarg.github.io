@@ -15,25 +15,8 @@ I also write poetry when inspiration hits. Some things need words instead of pix
 
 ## Latest Work
 
-<!--
-INSTAGRAM FEED OPTIONS:
-
-Option 1 (Recommended): Elfsight Widget (free tier = 200 views/mo)
-  1. Go to https://elfsight.com/instagram-feed-widget/
-  2. Create a free account
-  3. Configure the widget with your Instagram handle (@thedavenisarg)
-  4. Copy the embed code
-  5. Create a shortcode in layouts/shortcodes/elfsight.html with the embed code
-  6. Use it here: { {< elfsight >} }
-
-Option 2: Curator.io (free tier = 1 feed)
-  1. Go to https://curator.io
-  2. Connect your Instagram
-  3. Similar shortcode approach
-
-Option 3: Hugo built-in Instagram shortcode (no third-party JS)
-  Embed individual posts:
-  { {< instagram POST_ID >} }
--->
+<!-- Elfsight Instagram Feed | Untitled Instagram Feed -->
+<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-4e55fcb8-402f-4c39-add7-a44863319dd9" data-elfsight-app-lazy></div>
 
 {{< instagram-button handle="thedavenisarg" >}}
